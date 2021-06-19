@@ -41,6 +41,8 @@
     "packageFolder": "br/com/opiagile",
     "jwtSecretKey": "ODZjOTMyOWY1M2RiOTA5NDFlODgwZjgyMmQwM2RkYTcyOWM1ZmY2ODdiNzFkMTI5NjAyM2JjMGExZThiYTY3MGQxYTVlZmZiYzBhZGY3OWUzZjgyMDEyNjQ1MDdiM2VkZjQyNjRkYzlmMDNlOGE5MTVkMDFkZTJhNjA2YmRlZDk=",
     "clientPackageManager": "npm",
-    "languages": ["pt-br", "en"]
+    "languages": ["pt-br", "en"],
+    "lastLiquibaseTimestamp": 1623728226000,
+    "entities": ["Post"]
   }
 }
